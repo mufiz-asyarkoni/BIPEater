@@ -106,7 +106,7 @@ BIP is a Population Main Book containing population data in a certain area in In
           <td>WIRASWASTA</td>
           <td>WNI</td>
           <td>GUBUK TIMUK</td>
-          <td>KEPALA KELUARGA</td>
+          <td>ISTRI</td>
         </tr> 
     </tbody>
 </table>
