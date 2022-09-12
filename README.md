@@ -10,6 +10,12 @@ BIP is a Population Main Book containing population data in a certain area in In
 - Bootstrap 5
 - Livewire v2.10.7
 
+## API Dependencies
+- BPS API with endpoint: https://webapi.bps.go.id/v1/api
+- Kode Wilayah with endpoint: https://dev.farizdotid.com/api/daerahindonesia
+- Google Maps Embedded with endpoint: https://maps.google.com/maps?q={{$details->loc}}&output=embed
+- Data Wilayah Administratif with: https://github.com/cahyadsn/wilayah
+
 ## Supported documents that can eaten
 - PDF (.pdf)
 - Excel (.xlsx, .csv, .xls, .xml, .ods)
