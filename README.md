@@ -119,8 +119,14 @@ BIP is a Population Main Book containing population data in a certain area in In
     </tbody></table>
 
 ## KK & NIK Meaning
-- 5203120411100003: <code>52 (province) + 03 (district) + 12 (sub-district) + 041110 (record date) + 0003 (record sequence)</code>
-- 5203120107600663: <code>52 (province) + 03 (district) + 12 (sub-district) + 010760 (birth date) + 0663 (record sequence)</code>
+- 5203120411100003:
+    <ul>
+    <li><code>52 (province) + 03 (district) + 12 (sub-district) + 041110 (record date) + 0003 (record sequence)</code></li>
+    </ul>
+- 5203120107600663:
+    <ul>
+    <li><code>52 (province) + 03 (district) + 12 (sub-district) + 010760 (birth date) + 0663 (record sequence)</code></li>
+    </ul>
 
 ## Further Development
 - Integrate with https://cekbansos.kemensos.go.id/ to check citizen's data Bantuan Sosial receiver
