@@ -63,8 +63,8 @@ BIP is a Population Main Book containing population data in a certain area in In
     <thead>
     <tr valign="top">
         <th>NO.</th>
-        <th>NIK</th>
         <th>NOMOR KK</th>
+        <th>NIK</th>
         <th>NAMA LENGKAP</th>
         <th>JENIS KELAMIN</th>
         <th>STATUS PERKAWINAN</th>
@@ -80,8 +80,8 @@ BIP is a Population Main Book containing population data in a certain area in In
     <tbody>
         <tr valign="top">
           <td>001</td>
-          <td>5203120107600663</td>
           <td>5203120411100003</td>
+          <td>5203120107600663</td>          
           <td>NAHARUDIN</td>
           <td>LAKI-LAKI</td>
           <td>KAWIN</td>
@@ -95,8 +95,8 @@ BIP is a Population Main Book containing population data in a certain area in In
         </tr> 
         <tr valign="top">
           <td>002</td>
-          <td>5203124107671027</td>
           <td>5203120411100003</td>
+          <td>5203124107671027</td>          
           <td>SOPIATUN</td>
           <td>PEREMPUAN</td>
           <td>KAWIN</td>
