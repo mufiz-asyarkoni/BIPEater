@@ -7,10 +7,10 @@ BIP is a Population Main Book containing population data in a certain area in In
 <img src="https://gopa.koonek.net/public/cdn/BIPEaterDiagram.png">
 
 ## Technology
-- PHP v8.0.22
-- Laravel v9.28.0
-- Bootstrap 5
-- Livewire v2.10.7
+- <b>PHP</b> <code>v8.0.22</code>
+- <b>Laravel</b> <code>v9.28.0</code>
+- <b>Bootstrap</b> <code>v5.2</code>
+- <b>Livewire</b> <code>v2.10.7</code>
 
 ## API Dependencies
 - BPS API with endpoint: https://webapi.bps.go.id/v1/api
