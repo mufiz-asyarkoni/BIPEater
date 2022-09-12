@@ -5,10 +5,10 @@ BIP is a Population Main Book containing population data in a certain area in In
 <img src="https://gopa.koonek.net/public/cdn/BIPEaterDiagram.png">
 
 ## Technology
-- PHP 8.x
-- Laravel 9.x
+- PHP v8.0.22
+- Laravel v9.28.0
 - Bootstrap 5
-- Livewire 2.x
+- Livewire v2.10.7
 
 ## Supported documents that can eaten
 - PDF (.pdf)
