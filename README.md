@@ -128,6 +128,15 @@ BIP is a Population Main Book containing population data in a certain area in In
     <li><code>52 (province) + 03 (district) + 12 (sub-district) + 010760 (birth date) + 0663 (record sequence)</code></li>
     </ul>
 
+## Sampling
+<h3><b>n = N / 1+Ne^2</b></h3>This equation is used to determine the minimum sample size in conducting research on the relationship between one variable and another. Considering that BIP Eater is capable of displaying results or a summary of the population, it is necessary to formulate this equation.
+
+If the population in Indonesia is 275,773,800 people, then N = 275,773,800, and e = with a significance level of 95% or 0.05, then:
+
+<b>n = 275,773,800 / 1 + 275,773,800 x 0.05^2 = 400</b>
+
+However, I prefer a sample size of at least 10% of the total population in Indonesia with the distribution of data availability in each region (kelurahan, sub-district, city/district, and province). A minimum sample size of 10% can provide a minimum margin of error than it should be with the output based on the Solvin equation. Thus, the minimum data that must be included in this BIP Eater is 27,577,380 population data and evenly distributed in various regions in Indonesia.
+
 ## Further Development
 - Integrate with https://cekbansos.kemensos.go.id/ to check citizen's data Bantuan Sosial receiver
 - Integrate with https://bsu.bpjsketenagakerjaan.go.id/ to check citizen's data Subsidi Upah receiver
