@@ -108,8 +108,7 @@ BIP is a Population Main Book containing population data in a certain area in In
           <td>GUBUK TIMUK</td>
           <td>ISTRI</td>
         </tr>
-    </tbody>
-</table>
+    </tbody></table>
 
 
 ## Further Development
