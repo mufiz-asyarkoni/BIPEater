@@ -111,12 +111,14 @@ BIP is a Population Main Book containing population data in a certain area in In
     </tbody>
 </table>
 
+
 ## Further Development
 - Integrate with https://cekbansos.kemensos.go.id/ to check citizen's data Bantuan Sosial receiver
 - Integrate with https://bsu.bpjsketenagakerjaan.go.id/ to check citizen's data Subsidi Upah receiver
 - Integrate with https://eform.bri.co.id/bpum to check citizen's data BPUM receiver
 - Integrate with https://pddikti.kemdikbud.go.id/ to check which campus, which major, and other information related to higher education from citizens who have or are currently studying
 - Integrate with https://nisn.data.kemdikbud.go.id/ to check the location where citizens go to school (outside higher education)
+
 
 ## Plugin & Third Parties
 - https://github.com/smalot/pdfparser
@@ -127,6 +129,7 @@ BIP is a Population Main Book containing population data in a certain area in In
 - https://github.com/jaytrivedi185/Textprocessing
 - https://www.creative-tim.com/product/soft-ui-dashboard-laravel-livewire
 - https://github.com/OpenSID/OpenSID
+
 
 ## Development References
 - https://blog.rosihanari.net/export-data-file-excel-ke-json-dengan-script-php/
