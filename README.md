@@ -1,20 +1,20 @@
 # 🍖 BIP Eater
 BIP is a Population Main Book containing population data in a certain area in Indonesia. This application is able to parse BIP documents in excel or pdf format into JSON. Then input the JSON results into a MySQL-based application database. Thus, this application is capable of performing operations and manipulating population data of Indonesian citizens completely from the BIP document uploaded to this application.
 
-# Core Concept
+## Core Concept
 <img src="https://gopa.koonek.net/public/cdn/BIPEaterDiagram.png">
 
-# Technology
+## Technology
 - PHP 8.x
 - Laravel 9.x
 - Bootstrap 5
 - Livewire 2.x
 
-# Supported documents that can eaten
+## Supported documents that can eaten
 - PDF (.pdf)
 - Excel (.xlsx, .csv, .xls, .xml, .ods)
 
-# Installation
+## Installation
 1. Write this <code>composer require phpoffice/phpspreadsheet</code> in your terminal to install PHPSpreadsheet plugin in your PHP App.
 2. If you want to install PHPSpreadsheet with doc then you must write <code>composer require phpoffice/phpspreadsheet --prefer-source</code>
 3. Search BIP Document in .pdf or .xls (excel) format in many open sources like Scribd, Adoc, PDF Coffee, 123dok, etc. <a href="https://www.scribd.com/document/450191065/Buku-Induk-Penduduk">Like this</a>
@@ -22,7 +22,7 @@ BIP is a Population Main Book containing population data in a certain area in In
 5. Wait until the website has finished processing it and enter it into the database from JSON format.
 6. And voila! If the document you uploaded is really a BIP document which usually contains the following queries: id/sequence number, full name, gender, marital status, place of birth, date of birth, last education, occupation, citizenship, complete address, rt/rw, position in the family, residence registration number, and family card number.
 
-# Demo
+## Demo
 1. With this excel document: <a href="https://www.desapengadangan.web.id/first/unduh_dokumen_artikel/25">Click This</a>
 2. You will have this output JSON: <code>
 {
@@ -111,14 +111,14 @@ BIP is a Population Main Book containing population data in a certain area in In
     </tbody>
 </table>
 
-# Further Development
+## Further Development
 - Integrate with https://cekbansos.kemensos.go.id/ to check citizen's data Bantuan Sosial receiver
 - Integrate with https://bsu.bpjsketenagakerjaan.go.id/ to check citizen's data Subsidi Upah receiver
 - Integrate with https://eform.bri.co.id/bpum to check citizen's data BPUM receiver
 - Integrate with https://pddikti.kemdikbud.go.id/ to check which campus, which major, and other information related to higher education from citizens who have or are currently studying
 - Integrate with https://nisn.data.kemdikbud.go.id/ to check the location where citizens go to school (outside higher education)
 
-# Plugin & Third Parties
+## Plugin & Third Parties
 - https://github.com/smalot/pdfparser
 - https://github.com/PHPOffice/PhpSpreadsheet
 - https://github.com/PHPOffice/PHPWord
@@ -128,7 +128,7 @@ BIP is a Population Main Book containing population data in a certain area in In
 - https://www.creative-tim.com/product/soft-ui-dashboard-laravel-livewire
 - https://github.com/OpenSID/OpenSID
 
-# Development References
+## Development References
 - https://blog.rosihanari.net/export-data-file-excel-ke-json-dengan-script-php/
 - https://apidocs.pdf.co/13-pdf-to-json
 - https://www.phpclasses.org/package/7965-PHP-Convert-data-from-Excel-spreadsheet-to-JSON-format.html
