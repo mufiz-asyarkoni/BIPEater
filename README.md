@@ -1,2 +1,2 @@
-# BIPEater
+# BIP Eater
 BIP is a Population Main Book containing population data in a certain area in Indonesia. This application is able to parse BIP documents in excel or pdf format into JSON. Then input the JSON results into a MySQL-based application database. Thus, this application is capable of performing operations and manipulating population data of Indonesian citizens completely from the BIP document uploaded to this application.
